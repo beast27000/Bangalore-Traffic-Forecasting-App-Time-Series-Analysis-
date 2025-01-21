@@ -1,7 +1,7 @@
 # Bangalore-Traffic-Forecasting-App-Time-Series-Analysis-
 Forecast Bangalore’s traffic volume using time series analysis with SARIMA. This project provides hourly predictions for up to a year, with an interactive Streamlit app for exploring and visualizing forecasts.
 
-# Project Summary:
+# Project Summary ( Note main8.py is best version , or main4.py)
 This project predicts Bangalore's traffic volume using time series analysis. It employs the SARIMA model to analyze and forecast hourly traffic data, providing a detailed prediction for the next year. Users can interactively explore forecasts by days, months, or hours using an intuitive Streamlit app.
 
 # Key Features:
